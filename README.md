@@ -8,8 +8,11 @@
     * [horizon プラグイン](https://github.com/skarrmann/horizon/blob/5833ec133d5f8fa4f3824622efd5dbfc89d797ec/kicad-plugins/horizon-board-producer-plugin.py)を使ってボトムプレートを生成
     * choc v1 と Lofree switch 対応
 
-![](./assets/readme_1.png)
-![](./assets/readme_2.png)
+
+
+|![](./assets/readme_1.png)|![](./assets/readme_2.png)|
+|---|---|
+|left|right|
 
 ## LICENSE
 
