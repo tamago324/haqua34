@@ -31,19 +31,22 @@
 
 | No. | 名前                  | 数量        | 備考                                                                                                                                                                        |
 |-----|-----------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | PCB                   | 1枚         | メインPCB                                                                                                                                                                   |
-| 2   | ボトムプレート        | 1枚         | ボトムプレート                                                                                                                                                      |
-| 3   | ゴム足            | 10個 | [Amazon](https://amzn.asia/d/dPdWZld)で購入できます。                                                                |
-| 4   | 両面テープ (5mm幅)    | -           | PCBとボトムプレートを張り合わせるために使用。 <br>[Amazon](https://amzn.asia/d/8XeKmsn)で購入できます。 |
-| 5   | TRRSジャック             | 2個 | [TALP KEYBOARD](https://talpkeyboard.net/items/5fa25a06da019c17f0664dc7)で購入できます。 |
+| 1   | PCB (左)                   | 1枚         | メインPCB (左)                                                                                                                                                                   |
+| 2   | PCB (右)                   | 1枚         | メインPCB (右)                                                                                                                                                                  |
+| 3   | ボトムプレート (左)        | 1枚         | ボトムプレート (左)                                                                                                                                                     |
+| 4   | ボトムプレート (右)        | 1枚         | ボトムプレート (右)                                                                                                                                                      |
+| 5   | ゴム足            | 12個 | [Amazon](https://amzn.asia/d/dPdWZld)で購入できます。                                                                |
+| 6   | 両面テープ (5mm幅)    | -           | PCBとボトムプレートを張り合わせるために使用。 <br>[Amazon](https://amzn.asia/d/8XeKmsn)で購入できます。 |
 
 ## キット以外に必要なもの
 
 | 名前                     | 数量 | 備考                 |
 |--------------------------|------|----------------------|
-| トッププレート        | 1枚         | JLCPCBで製造してもらった3Dプリント製のトッププレート                                                                                                           |
+| トッププレート (左)        | 1枚         | JLCPCBで製造してもらった3Dプリント製のトッププレート                                                                                                           |
+| トッププレート (右)        | 1枚         | JLCPCBで製造してもらった3Dプリント製のトッププレート                                                                                                           |
 | ダイオード            | 34個 + 予備 | [遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)で購入できます。                                                                |
 | RP2040-Zero             | 1個 |[TALP KEYBAORD](https://talpkeyboard.net/items/640ea9f3072c3c538731c515) などで購入できます。 |
+| TRRSジャック             | 2個 | [TALP KEYBOARD](https://talpkeyboard.net/items/5fa25a06da019c17f0664dc7)で購入できます。 |
 | ピンヘッダ | - | RP2040-Zero をまっすぐはんだ付けするために使用するピンヘッダ (※ なくても組み立ては可能ですが、あったほうがまっすぐ半田付けできるため、あると良いです。) |
 | キーキャップ            | 34個 | choc v1用、またはMX用キーキャップ<br>Lofreeスイッチを取り付ける場合、Junana MX キーキャップがおすすめです。([1U 凹形](https://booth.pm/ja/items/5551574)、[1U 凸形](https://booth.pm/ja/items/5551877))  |
 | キースイッチ             | 34個 | choc v1スイッチ、または [Lofree スイッチ](https://www.lofree.co/products/lofree-x-kailh-full-pom-low-profile-switches)         |
@@ -53,7 +56,7 @@
 
 トッププレートは JLCPCB に製造してもらう必要があります。  
 輸送会社を OCS にすると送料が安くなるのでオススメです。  
-トッププレートは左右で異なるため、それぞれ1つずつ発注をお願いします。  
+トッププレートは左右で異なるため、それぞれ1つずつ発注してください。  
 
 * left: `data/rev0.1/stl/top_plate_left.stl`
   * 3D Technology: MJF(Nylon)
@@ -127,6 +130,8 @@ RP2040-Zero の左側のボタンを押しながら、USB を接続し、
 
 
 #### 入力の確認
+
+**XXX: TRRSケーブルを左右で接続してから、USBケーブルを指してください。**
 
 [Remap](https://remap-keys.app/) にアクセスし、`START REMAP FOR YOUR KEYBOARD` ボタンをクリック
 
