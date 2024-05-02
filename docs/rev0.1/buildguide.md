@@ -3,7 +3,7 @@
 天キーで余り基板をもらっていただきありがとうございます。  
 文章のみになりますが、ビルドガイドになります。
 
-写真については、gku34 のビルドガイドを見ていただけると助かります。
+写真については、[gku34](https://github.com/tamago324/gku34/blob/master/docs/rev0.3/buildguide.md) のビルドガイドを見ていただけると助かります。
 
 <details><summary>目次</summary><div>
 
