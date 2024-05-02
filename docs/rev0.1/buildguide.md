@@ -45,7 +45,7 @@
 | トッププレート (左)        | 1枚         | JLCPCBで製造してもらった3Dプリント製のトッププレート                                                                                                           |
 | トッププレート (右)        | 1枚         | JLCPCBで製造してもらった3Dプリント製のトッププレート                                                                                                           |
 | ダイオード            | 34個 + 予備 | [遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)で購入できます。                                                                |
-| RP2040-Zero             | 1個 |[TALP KEYBAORD](https://talpkeyboard.net/items/640ea9f3072c3c538731c515) などで購入できます。 |
+| RP2040-Zero             | 2個 |[TALP KEYBAORD](https://talpkeyboard.net/items/640ea9f3072c3c538731c515) などで購入できます。 |
 | TRRSジャック             | 2個 | [TALP KEYBOARD](https://talpkeyboard.net/items/5fa25a06da019c17f0664dc7)で購入できます。 |
 | ピンヘッダ | - | RP2040-Zero をまっすぐはんだ付けするために使用するピンヘッダ (※ なくても組み立ては可能ですが、あったほうがまっすぐ半田付けできるため、あると良いです。) |
 | キーキャップ            | 34個 | choc v1用、またはMX用キーキャップ<br>Lofreeスイッチを取り付ける場合、Junana MX キーキャップがおすすめです。([1U 凹形](https://booth.pm/ja/items/5551574)、[1U 凸形](https://booth.pm/ja/items/5551877))  |
