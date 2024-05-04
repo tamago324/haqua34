@@ -67,6 +67,10 @@
   * Material: PA12-HP Nylon
   * Color: Black
 
+また、発注する際に `There might be damage risks when printing, are you able to afford the risks?` のような確認があった場合は `Yes` を選択してください
+この確認は注文履歴画面で表示される可能性があります
+
+
 ## 組み立て順序の確認
 
 1. プレートの側面をペンで塗る
